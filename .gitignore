@@ -1,0 +1,4 @@
+dist/
+obj/
+assets/ffmpeg.exe
+*.part
