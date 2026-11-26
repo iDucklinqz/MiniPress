@@ -136,7 +136,7 @@ In an [MSYS2](https://www.msys2.org) **UCRT64** shell:
 
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-{gcc,nasm,pkgconf,dav1d} make diffutils
-# download ffmpeg-7.1.2.tar.xz and x264-stable.tar.bz2 into ./sources (links in the script header)
+# place official ffmpeg-7.1.2.tar.xz and x264-stable.tar.bz2 into ./sources (see the script header)
 tools/build-ffmpeg.sh ./sources ./work
 cp work/ffmpeg.exe assets/ffmpeg.exe
 ```

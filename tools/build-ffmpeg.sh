@@ -6,8 +6,10 @@
 #             mingw-w64-ucrt-x86_64-dav1d make diffutils
 # Usage:
 #   tools/build-ffmpeg.sh <dir containing ffmpeg-7.1.2.tar.xz and x264-stable.tar.bz2> <work dir>
-# Sources: https://ffmpeg.org
-#          https://code.videolan.org/videolan/x264
+# Official project sites (download the versioned source archives yourself):
+#   FFmpeg 7.1.2 from https://ffmpeg.org
+#   x264 stable from https://code.videolan.org/videolan/x264
+# Place ffmpeg-7.1.2.tar.xz and x264-stable.tar.bz2 in the first argument directory.
 #
 # Only what MiniPress needs is enabled: decoders for common video/audio, the MP4 muxer,
 # libx264 + the native AAC encoder, and the few filters the app uses.

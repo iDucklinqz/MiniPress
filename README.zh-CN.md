@@ -54,4 +54,4 @@ Windows 10 或 11 即可。程序用到的 .NET Framework 4.8 和 UCRT 运行库
 
 MiniPress 的源码使用 MIT 许可。
 
-`MiniPress.exe` 内置的 FFmpeg 和 x264 使用 GPL 许可，对应源码为 [ffmpeg-7.1.2](https://ffmpeg.org) 和 [x264 stable](https://code.videolan.org/videolan/x264)，编译参数见 `tools/build-ffmpeg.sh`。分发 exe 时请一并提供这两个源码包，或者它们的下载地址。
+`MiniPress.exe` 内置的 FFmpeg 和 x264 使用 GPL 许可。对应源码请从官方站点获取：[FFmpeg](https://ffmpeg.org) 7.1.2 与 [x264](https://code.videolan.org/videolan/x264) stable 分支。编译参数见 `tools/build-ffmpeg.sh`。每个 [GitHub Release](https://github.com/iDucklinqz/MiniPress/releases) 也会附带构建所用的源码包。分发 exe 时请一并提供这些源码包。
