@@ -8,12 +8,12 @@
 
 A no-install video compressor for Windows: one 5&nbsp;MB `.exe` with FFmpeg built in.
 
-[![Latest release](https://img.shields.io/github/v/release/iDucklinqz/MiniPress?style=flat-square&color=3d6df2)](https://github.com/iDucklinqz/MiniPress/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/iDucklinqz/MiniPress?style=flat-square&color=3d6df2)](https://github.com/iDucklinqz/MiniPress/releases)
 [![Downloads](https://img.shields.io/github/downloads/iDucklinqz/MiniPress/total?style=flat-square&color=3d6df2)](https://github.com/iDucklinqz/MiniPress/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square)](LICENSE)
 
-### [⬇&nbsp; Download MiniPress.exe](https://github.com/iDucklinqz/MiniPress/releases)
+### See the [Releases](https://github.com/iDucklinqz/MiniPress/releases) page, or [build from source](#building-from-source)
 
 English · [简体中文](README.zh-CN.md)
 
@@ -44,7 +44,7 @@ Screen recorders and phones write huge files. Most chat apps and email won't tak
 
 ## Quick start
 
-1. [Download `MiniPress.exe`](https://github.com/iDucklinqz/MiniPress/releases). That is the whole program.
+1. Get `MiniPress.exe` from the [Releases page](https://github.com/iDucklinqz/MiniPress/releases), or [build from source](#building-from-source). That is the whole program.
 2. Double-click it.
 3. Drag a video onto the window (or click the window to choose files, or drop files onto the `.exe` itself).
 4. Click a mode. **普通 / Normal** suits most videos.
